@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <!-- Required elements-->
+        <id>Ricardo.Stripe.Android</id>
+        <version>4.1.4</version>
+        <description>Xamarin Binding Library - Stripe Android SDK</description>
+        <authors>Adrian Hoitan</authors>
+        <owners>ricardo.ch AG</owners>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <title>Stripe Android</title>
+        <releaseNotes>Stripe android SDK v4.1.4</releaseNotes>
+        <summary>Xamarin Binding Library - Stripe Android SDK</summary>
+        <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
+        <projectUrl>https://github.com/ricardo-ch/xamarin-stripe-android/</projectUrl>
+        <copyright>Copyright (c) 2017 ricardo.ch AG</copyright>
+        <tags>Xamarin.Android, stripe</tags>
+    </metadata>
+    <!-- Optional 'files' node -->
+    <files>
+        <file src="Ricardo.Stripe.Android/Ricardo.Stripe.Android/bin/Release/Ricardo.Stripe.Android.dll" target="lib/MonoAndroid10/Ricardo.Stripe.Android.dll" />
+    </files>
+</package>
