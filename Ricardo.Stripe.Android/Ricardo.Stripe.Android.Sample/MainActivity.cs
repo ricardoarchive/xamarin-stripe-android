@@ -1,9 +1,5 @@
 ﻿using Android.App;
-using Android.Widget;
 using Android.OS;
-using Com.Stripe.Android;
-using Com.Stripe.Android.Model;
-using Com.Stripe.Android.View;
 
 namespace Ricardo.Stripe.Android.Sample
 {
