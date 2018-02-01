@@ -3,17 +3,17 @@
     <metadata>
         <!-- Required elements-->
         <id>Ricardo.Stripe.Android</id>
-        <version>4.1.6</version>
+        <version>5.1.1</version>
         <description>Xamarin Binding Library - Stripe Android SDK</description>
         <authors>Adrian Hoitan</authors>
         <owners>ricardo.ch AG</owners>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
         <title>Stripe Android</title>
-        <releaseNotes>Stripe android SDK v4.1.6</releaseNotes>
+        <releaseNotes>Stripe android SDK v5.1.1</releaseNotes>
         <summary>Xamarin Binding Library - Stripe Android SDK</summary>
         <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
         <projectUrl>https://github.com/ricardo-ch/xamarin-stripe-android/</projectUrl>
-        <copyright>Copyright (c) 2017 ricardo.ch AG</copyright>
+        <copyright>Copyright (c) 2018 ricardo.ch AG</copyright>
         <tags>Xamarin.Android, stripe</tags>
     </metadata>
     <!-- Optional 'files' node -->
